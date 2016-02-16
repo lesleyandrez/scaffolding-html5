@@ -1,0 +1,14 @@
+* {
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+  border-radius: 5px;
+}
+body {
+  background: yellow;
+  transition: .1s;
+}
+.flex {
+  display: -moz-box;
+  display: flex;
+}
+/*# sourceMappingURL=/css/style.css.map */
